@@ -9,3 +9,4 @@
 ### Project 1 
 This is what I did 
 [Isokinetic Dynamometer Report](https://github.com/miamcbride/Mia_McBride/blob/main/IsokineticDynamometerReport.pdf)
+.
