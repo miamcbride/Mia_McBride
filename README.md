@@ -2,9 +2,7 @@
 
 ![About Me](https://github.com/user-attachments/assets/e5d28121-61a4-443a-adf3-d8137785d633)
 &nbsp; I am a biomechanics student attending Marshall University. 
-
 <br />
-
 ## Biomechanics Projects
 
 
