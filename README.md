@@ -1,7 +1,8 @@
 # About Me 
 
-<img src="https://github.com/user-attachments/assets/486f8253-18b0-4782-9415-43c0ecc37f66" align="left">
+<img src="[https://github.com/user-attachments/assets/fcf5c8cd-9139-41e2-8f87-b4c1b3c3be62]" align="left">
 &nbsp; I am a biomechanics student ...  
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Biomechanics Projects
