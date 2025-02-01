@@ -1,6 +1,6 @@
 # About Me 
 
-<img src="[https://github.com/user-attachments/assets/fcf5c8cd-9139-41e2-8f87-b4c1b3c3be62]" align="left">
+![About Me](https://github.com/user-attachments/assets/e5d28121-61a4-443a-adf3-d8137785d633)
 &nbsp; I am a biomechanics student ...  
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
