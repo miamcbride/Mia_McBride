@@ -12,6 +12,7 @@
 
 ### The Acute Effect of Footwear on Proprioception and Environment Spatial Perception
 I am currently recruiting and scheduling the participation of athletic individuals to partake in data collection of this project. To gather data, I accurately place IMUs, EMGs, and reflective markers on respective bony and muscular landmarks on the individual and construct a unique 3D model of their anatomy using Vicon Nexus. I provide instructions to the participant and use force plates to assist in data collection.
+![NexusScreenshot](https://github.com/user-attachments/assets/be9da97e-0c95-46a2-aaf6-3ea4b95a2143)
 
 <br />
 
