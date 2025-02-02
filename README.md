@@ -16,7 +16,7 @@ I am currently recruiting and scheduling the participation of athletic individua
 <br />
 
 ### Sports Performance Data Analysis
-I work alongside with Marshall's biomechanics master's students to interpret dynamic movement data for Marshall University's sports teams, including baseball and women's basketball. Taking data collected from force plates, I interpret single and double leg countermovement jumps and single-leg landings. Extracted data is listed below: 
+I work alongside Marshall's sports science group to interpret dynamic movement data for Marshall University's sports teams, including baseball and women's basketball. After the force plate data are processed, I interpret single and double leg countermovement jumps and single-leg landings. Calculated variables are listed below: 
 - Single-leg Countermovement Jumps: Jump height, maximum power, countermovement depth, concentric impulse
 - Double-leg Countermovement Jumps: Jump height, maximum power, countermovement depth, concentric impulse
 - Single-leg Landings: Shock absorption time, rate of force displacement, dynamic postural stability index
