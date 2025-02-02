@@ -37,3 +37,5 @@ Using an isokinetic dynamometer, I provided a right-to-left comparison of force 
 ### Gait Data Collection and Analysis
 this is what i did and how i interpreted the data. 
 
+<p align="center">
+
