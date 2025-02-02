@@ -2,9 +2,9 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/e5d28121-61a4-443a-adf3-d8137785d633">
 &nbsp;I am a biomechanics student attending Marshall University. The 
-&nbsp;combination of my involvement with Marshall's biomechanics program and 
-&nbsp;commitmentment in Divison 1 athletics has sparked a personal interest in 
-&nbsp;exploring footwear alternatives that may enhance athletic performance by 
+&nbsp;combination of my work with Marshall's biomechanics program and 
+&nbsp;commitment in Divison 1 athletics has sparked a personal interest in 
+&nbsp;researching footwear alternatives that may enhance athletic performance by 
 &nbsp;prioritizing biomechanical advantages in product design.
 <br /><br /><br /><br /><br />
 
