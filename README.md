@@ -38,4 +38,5 @@ Using an isokinetic dynamometer, I provided a right-to-left comparison of force 
 this is what i did and how i interpreted the data. 
 
 <p align="center">
-
+  <img src="https://github.com/user-attachments/assets/3ef3944a-fca9-4247-8f7b-eee56c883884"/>
+</p>
