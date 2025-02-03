@@ -28,7 +28,7 @@ I work alongside Marshall's sports science group to interpret dynamic movement d
 <br />
 
 ### Post ACL Reconstruction Isokinetic Dynamometer Testing
-Using an isokinetic dynamometer, I provided a right-to-left comparison of force production in the leg for an individual who underwent ACL reconstruction. Varying speeds of 60 and 180 deg/sec were utilized to measure strength and power generation. Evaluated movements included knee extension/flexion and ankle plantar/dorsiflexion (supine). [Isokinetic Dynamometer Report](https://github.com/miamcbride/Mia_McBride/blob/main/IsokineticDynamometerReport.pdf)
+This project aimed to evaluate symmetry of an individual's lower leg muscular function after ACL reconstruction. Using an isokinetic dynamometer, I provided a right-to-left comparison of force production in the leg for an individual who underwent ACL reconstruction. Varying speeds of 60 and 180 deg/sec were utilized to measure strength and power generation. Evaluated movements included knee extension/flexion and ankle plantar/dorsiflexion (supine). [Isokinetic Dynamometer Report](https://github.com/miamcbride/Mia_McBride/blob/main/IsokineticDynamometerReport.pdf)
 <br />
 ![IsokineticDynamometer](https://github.com/user-attachments/assets/2133750c-1647-4cb2-8168-b9d348f56a5f)
 
