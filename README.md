@@ -38,7 +38,7 @@ Using an isokinetic dynamometer, I provided a right-to-left comparison of force 
 
 ### In-field Gait Data Collection and Analysis
 I wanted to compare gait pattern differences with a focus on ankle stability in coordinated vs. uncoordinated individuals. I tested two individuals, one who was coordinated(S2), and one who was less coordinated, with arthritis in the ankle area(S1). I used IMUs to track gait patterns in 3-dimensional planes when walking on different surfaces (indoor, stairs, uneven gravel). I evaluated trunk stability by calculating RMS jerk taken from an IMU placed on C7. I evaluated multi-limb coordination by tracking angular velocities of limb segments, calculating those values into joint angles and then creating angle-angle graphs of the knee-ankle. 
-<br />
+<br /><br />
 I found a higher degree of movement pattern variability and inefficiency exhibited by the uncoordinated individual(S1) than their counterpart(S2). 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ef3944a-fca9-4247-8f7b-eee56c883884"/>
