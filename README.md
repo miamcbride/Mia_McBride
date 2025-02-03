@@ -17,14 +17,12 @@ This project aims to evaluate the effect of textured insoles on proprioception w
 <br />
 
 ### Sports Performance Data Analysis
-I work alongside Marshall's sports science group to interpret dynamic movement data for Marshall University's sports teams, including baseball and women's basketball. After the force plate data are processed, I interpret single and double leg countermovement jumps and single-leg landings. Calculated variables are listed below: 
+I work alongside Marshall's sports science group to interpret dynamic movement data for Marshall University's sports teams, including baseball and women's basketball to track athletic performance. Athletes perform a single-leg and double-leg countermovement jump and a single-leg landing onto force plates. After the force plate data are processed, I discuss with the sports science group to ensure a mutual understanding and articulation of data present. Following these discussions, I interpret these data into summaries for the athletes, which are then composed into reports of monthly athletic performance comparisons. Calculated variables are listed below: 
 - Single-leg and Double-Leg Countermovement Jumps: **Jump height**, **maximum power**, countermovement depth, concentric impulse
 ![SL Jump](https://github.com/user-attachments/assets/21b68813-da16-438b-b3e7-cd935929a65f)
 ![DL Jump](https://github.com/user-attachments/assets/27829d41-e325-4f08-b12a-43ca1529e641)
 - Single-leg Landings: **Shock absorption time**, rate of force displacement, dynamic postural stability index
 ![SL Landing ](https://github.com/user-attachments/assets/c56500ef-22ca-424a-92e9-5b6e8fbbe495)
-
-I interpret these data into summaries for the athletes, which are then composed into reports of monthly athletic performance comparisons. 
 
 
 <br />
