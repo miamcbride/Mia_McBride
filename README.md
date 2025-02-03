@@ -11,21 +11,22 @@
 ## Biomechanics Projects
 
 ### The Acute Effect of Footwear on Proprioception and Environment Spatial Perception
-I am currently recruiting and scheduling the participation of athletic individuals to partake in data collection of this project. To gather data, I accurately place IMUs, EMG electrodes, and reflective markers on respective muscular and bony landmarks on the individual and construct a unique 3D model of their anatomy using Vicon Nexus. I provide instructions to the participant and use force plates to assist in data collection.
+This project aims to evaluate the effect of textured insoles on proprioception when performing athletic movements. I am currently recruiting and scheduling athletic individuals to partake in data collection of this project. To gather data, I accurately place EMG electrodes and a Helen Hayes marker set on respective muscular and bony landmarks on the individual and construct a unique 3D model of their anatomy using Vicon Nexus. Our lab incorporates the use of force plates within the motion capture system to gather data. I provide instructions to the participant and capture their trials. 
 ![NexusScreenshot](https://github.com/user-attachments/assets/be9da97e-0c95-46a2-aaf6-3ea4b95a2143)
 
 <br />
 
 ### Sports Performance Data Analysis
 I work alongside Marshall's sports science group to interpret dynamic movement data for Marshall University's sports teams, including baseball and women's basketball. After the force plate data are processed, I interpret single and double leg countermovement jumps and single-leg landings. Calculated variables are listed below: 
-- Single-leg Countermovement Jumps: Jump height, maximum power, countermovement depth, concentric impulse
-- Double-leg Countermovement Jumps: Jump height, maximum power, countermovement depth, concentric impulse
-- Single-leg Landings: Shock absorption time, rate of force displacement, dynamic postural stability index
-
-I interpret these data into summaries for the athletes, which are then composed into reports of monthly athletic performance comparisons. 
+- Single-leg and Double-Leg Countermovement Jumps: **Jump height**, **maximum power**, countermovement depth, concentric impulse
 ![SL Jump](https://github.com/user-attachments/assets/21b68813-da16-438b-b3e7-cd935929a65f)
 ![DL Jump](https://github.com/user-attachments/assets/27829d41-e325-4f08-b12a-43ca1529e641)
+- Single-leg Landings: **Shock absorption time**, rate of force displacement, dynamic postural stability index
 ![SL Landing ](https://github.com/user-attachments/assets/c56500ef-22ca-424a-92e9-5b6e8fbbe495)
+
+<br />
+I interpret these data into summaries for the athletes, which are then composed into reports of monthly athletic performance comparisons. 
+
 
 <br />
 
