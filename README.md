@@ -24,7 +24,6 @@ I work alongside Marshall's sports science group to interpret dynamic movement d
 - Single-leg Landings: **Shock absorption time**, rate of force displacement, dynamic postural stability index
 ![SL Landing ](https://github.com/user-attachments/assets/c56500ef-22ca-424a-92e9-5b6e8fbbe495)
 
-<br />
 I interpret these data into summaries for the athletes, which are then composed into reports of monthly athletic performance comparisons. 
 
 
