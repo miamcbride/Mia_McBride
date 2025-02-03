@@ -5,13 +5,13 @@
 &nbsp;combination of my work with Marshall's biomechanics program and 
 &nbsp;commitment in Divison 1 athletics has sparked a personal interest in 
 &nbsp;researching footwear alternatives that may enhance athletic performance by 
-&nbsp;prioritizing biomechanical advantages in product design.
+&nbsp;prioritizing biomechanically driven design.
 <br /><br /><br /><br /><br />
 
 ## Biomechanics Projects
 
 ### The Acute Effect of Footwear on Proprioception and Environment Spatial Perception
-I am currently recruiting and scheduling the participation of athletic individuals to partake in data collection of this project. To gather data, I accurately place IMUs, EMGs, and reflective markers on respective bony and muscular landmarks on the individual and construct a unique 3D model of their anatomy using Vicon Nexus. I provide instructions to the participant and use force plates to assist in data collection.
+I am currently recruiting and scheduling the participation of athletic individuals to partake in data collection of this project. To gather data, I accurately place IMUs, EMG electrodes, and reflective markers on respective muscular and bony landmarks on the individual and construct a unique 3D model of their anatomy using Vicon Nexus. I provide instructions to the participant and use force plates to assist in data collection.
 ![NexusScreenshot](https://github.com/user-attachments/assets/be9da97e-0c95-46a2-aaf6-3ea4b95a2143)
 
 <br />
@@ -29,15 +29,17 @@ I interpret these data into summaries for the athletes, which are then composed 
 
 <br />
 
-### Isokinetic Dynamometer Testing
+### Post ACL Reconstruction Isokinetic Dynamometer Testing
 Using an isokinetic dynamometer, I provided a right-to-left comparison of force production in the leg for an individual who underwent ACL reconstruction. Varying speeds of 60 and 180 deg/sec were utilized to measure strength and power generation. Evaluated movements included knee extension/flexion and ankle plantar/dorsiflexion (supine). [Isokinetic Dynamometer Report](https://github.com/miamcbride/Mia_McBride/blob/main/IsokineticDynamometerReport.pdf)
 <br />
 ![IsokineticDynamometer](https://github.com/user-attachments/assets/2133750c-1647-4cb2-8168-b9d348f56a5f)
 
 <br />
 
-### Gait Data Collection and Analysis
-I used IMUs to track gait patterns in the X, Y, and Z planes when walking on different surfaces (indoor, stairs, uneven gravel). Trunk stability was evaluated by calculating RMS jerk taken from an IMU placed on C7. Multi-limb coordination was evaluated by tracking angular velocities of lower limb segments and then creating angle-angle graphs of the knee-ankle. 
+### In-field Gait Data Collection and Analysis
+I wanted to compare gait pattern differences with a focus on ankle stability in coordinated vs. uncoordinated individuals. I tested two individuals, one who was coordinated(S2), and one who was less coordinated, with arthritis in the ankle area(S1). I used IMUs to track gait patterns in 3-dimensional planes when walking on different surfaces (indoor, stairs, uneven gravel). I evaluated trunk stability by calculating RMS jerk taken from an IMU placed on C7. I evaluated multi-limb coordination by tracking angular velocities of limb segments, calculating those values into joint angles and then creating angle-angle graphs of the knee-ankle. 
+<br />
+I found a higher degree of movement pattern variability and inefficiency exhibited by the uncoordinated individual(S1) than their counterpart(S2). 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ef3944a-fca9-4247-8f7b-eee56c883884"/>
 </p>
